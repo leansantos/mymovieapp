@@ -1,0 +1,16 @@
+<div class="content watch-page">
+
+	<h1>Watching Here....</h1>
+
+
+		<div ng-repeat="movie in movies | filter:watch |limitTo:1">
+			
+			{{movie.title}}
+			<img ng-src="{{movie.image}}" alt="">
+
+		</div>
+	
+	
+
+
+</div>

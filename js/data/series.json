@@ -1,0 +1,59 @@
+{
+
+"series": [
+	{
+		"id": 1, "title": "The Flash", "episodeTitle": "Pilot",
+		"season": "", "episode": "",
+		"category": "Tv Series", "genres": "Action",
+		"released": 2014, "producedBy": "", "directedBy": "sadsad", "Starring": "",
+		"duration": "",
+		"summary": "Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. Peter is also finding his way with his first high school crush, Gwen Stacy, and together, they struggle with love, commitment, and secrets. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents’ disappearance - leading him directly to Oscorp and the lab of Dr Curt Connors, his father’s former partner. As Spider-Man is set on a collision course with Connors’ alter-ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+		"image": "https://lh3.googleusercontent.com/ERCo1kaNXWaxpc4aDb6wtDFiLrrkPS4B6kNvgJi8Hg=w120-h160-no",
+		"link": ""
+	},
+	{
+		"id": 2, "title": "Arrow", "episodeTitle": "sadfsdaf",
+		"season": "", "episode": "",
+		"category": "Tv Series", "genres": "Action",
+		"released": 2014, "producedBy": "", "directedBy": "", "Starring": "",
+		"duration": "",
+		"summary": "Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. Peter is also finding his way with his first high school crush, Gwen Stacy, and together, they struggle with love, commitment, and secrets. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents’ disappearance - leading him directly to Oscorp and the lab of Dr Curt Connors, his father’s former partner. As Spider-Man is set on a collision course with Connors’ alter-ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+		"image": "http://pbs.twimg.com/media/BAxvGKSCYAA5IO-.jpg",
+		"link": ""
+	},
+	{
+		"id": 3, "title": "Game of Throne", "episodeTitle": "sadfsdf",
+		"season": "", "episode": "",
+		"category": "Tv Series", "genres": "Action",
+		"released": 2014, "producedBy": "", "directedBy": "", "Starring": "",
+		"duration": "",
+		"summary": "Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. Peter is also finding his way with his first high school crush, Gwen Stacy, and together, they struggle with love, commitment, and secrets. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents’ disappearance - leading him directly to Oscorp and the lab of Dr Curt Connors, his father’s former partner. As Spider-Man is set on a collision course with Connors’ alter-ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+		"image": "http://img.megashare.info/film/1306732480_movie.jpg",
+		"link": ""
+	},
+	{
+		"id": 4, "title": "Dare Devil", "episodeTitle": "Pilot",
+		"season": "", "episode": "",
+		"category": "Tv Series", "genres": "Action",
+		"released": 2014, "producedBy": "", "directedBy": "", "Starring": "",
+		"duration": "",
+		"summary": "Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. Peter is also finding his way with his first high school crush, Gwen Stacy, and together, they struggle with love, commitment, and secrets. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents’ disappearance - leading him directly to Oscorp and the lab of Dr Curt Connors, his father’s former partner. As Spider-Man is set on a collision course with Connors’ alter-ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+		"image": "https://lh3.googleusercontent.com/HKMJxvIS-YwvHN8mDSw6KfFI0HTIlzgoKiLHltKWWw=w120-h160-no",
+		"link": ""
+	},
+	{
+		"id": 5, "title": "Breaking Bad", "episodeTitle": "Pilot",
+		"season": "", "episode": "",
+		"category": "Tv Series", "genres": "Action",
+		"released": 2014, "producedBy": "", "directedBy": "", "Starring": "",
+		"duration": "",
+		"summary": "Like most teenagers, Peter is trying to figure out who he is and how he got to be the person he is today. Peter is also finding his way with his first high school crush, Gwen Stacy, and together, they struggle with love, commitment, and secrets. As Peter discovers a mysterious briefcase that belonged to his father, he begins a quest to understand his parents’ disappearance - leading him directly to Oscorp and the lab of Dr Curt Connors, his father’s former partner. As Spider-Man is set on a collision course with Connors’ alter-ego, The Lizard, Peter will make life-altering choices to use his powers and shape his destiny to become a hero.",
+		"image": "http://img.megashare.info/film/1269265235_movie.jpg",
+		"link": ""
+	}
+	
+
+
+
+]
+}
